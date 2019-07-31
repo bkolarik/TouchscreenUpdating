@@ -1,0 +1,7 @@
+10-Mar-2011 12:47:37
+Subj: 1
+trialnum	StimName	response	RT
+1	3_5.jpg	10-Mar-2011 12:52:14
+Subj: 1
+trialnum	StimName	response	RT
+1	3_5.jpg	
